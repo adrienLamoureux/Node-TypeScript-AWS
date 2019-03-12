@@ -1,4 +1,4 @@
-# BADANAMU Server
+# Node-TypeScript-AWS
 
 ## Pre-requiert
 
